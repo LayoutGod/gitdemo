@@ -20,6 +20,10 @@ body {
     position: relative;
 }
 
+.nav-bar .menu ul li a {
+    text-decoration: none;
+}
+
 
 
 ul {
